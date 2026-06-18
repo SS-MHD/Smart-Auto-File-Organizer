@@ -188,8 +188,6 @@ This message is displayed using a Tkinter message box.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/smart-file-organizer.git
-
 Navigate to the project folder:
 
 cd smart-file-organizer
@@ -197,7 +195,7 @@ cd smart-file-organizer
 
 Run the program:
 
-python organizer.py
+smart file organizer.py
 
 
 ---
@@ -215,11 +213,8 @@ Possible future enhancements for the project:
 
 ---
 
-## License.With My Name And Github
-
-
 ## Author
 
-Developed by **[M.Sh]
+Developed by [M.Sh]
 
 که پروژه‌ات خیلی حرفه‌ای‌تر دیده شود.
